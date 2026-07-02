@@ -1,29 +1,87 @@
- <div align="center">
-  <img src="https://i.pinimg.com/originals/31/8f/ee/318fee1b17a7c102ccce7bffa604be51.gif" width="400" />
+<div align="center">
+
+<img src="https://i.pinimg.com/originals/31/8f/ee/318fee1b17a7c102ccce7bffa604be51.gif" width="350"/>
+
+# Hi 👋 I'm Shivani Yadav
+
+### 🚀 AI Engineer | Machine Learning Enthusiast | Generative AI Developer
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Engineer;Machine+Learning+Developer;LLM+%7C+RAG+%7C+Agentic+AI;Deep+Learning+Enthusiast;Always+Learning+New+Things+✨" />
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
+
 </div>
- 
 
-<h2 data-importer="text" align="center">Hey 👋 What's up?</h2>
+---
 
-###
+# 💫 About Me
 
-<h1 data-importer="text" align="left">My name is Shivani Yadav and I'm a AI Engineer, from Roorkee.</h1>
+<img align="right" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
-###
+### 👩‍💻 AI Engineer from Roorkee, India
 
-<h2 data-importer="text" align="center">About me</h2>
+✨ Building intelligent AI-powered applications using Python and Machine Learning.
 
-###
+🤖 Passionate about
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- Agentic AI
+- Deep Learning
+- Computer Vision
 
-<h3 data-importer="text" align="left"> ✨ Creating AI-powered solutions with Python and Machine Learning.<br>📚 Currently exploring LLMs, RAG, Agentic AI, and Deep Learning.<br>🎯 Goal: Land a top AI/ML role and develop products that solve real-world problems.<br>🎲 Fun fact: I love experimenting with AI tools and participating in hackathons.</h3>
+🌱 Currently learning
+- LangChain
+- Multi-Agent Systems
+- Vector Databases
+- MLOps
+- Cloud Deployment
 
-###
+🎯 **Mission**
+> Build AI products that solve real-world problems and positively impact millions of people.
 
-<h2 data-importer="text" align="left">I code with</h2>
+🏆 Love participating in Hackathons, Open Source, and AI Challenges.
 
-###
+⚡ Fun Fact:
+> I enjoy experimenting with the latest AI technologies before they become mainstream.
 
-##        🛠️ Tech Stack
+---
+
+# 🚀 Tech Stack
+
+### 💻 Programming Languages
+
+### 🤖 Artificial Intelligence & Machine Learning
+
+### 🧠 Generative AI
+
+### 🗄️ Databases
+
+### ☁️ Cloud & DevOps
+
+### 🛠️ Tools & Platforms
+
+<!-- Paste your Tech Stack table here -->
+
+---
+
+# 🌟 What I'm Working On
+
+🩺 AI Medical Chatbot using RAG
+
+🌍 Landslide Detection using Machine Learning
+
+🩸 Diabetes Prediction System
+
+🤖 AI Agents & Automation
+
+📚 Learning Advanced LLM Architectures
+
+---
+
+# 📈 GitHub Journey
+
+> "Code. Learn. Build. Repeat. 🚀"
+
 
 <table align="center">
 <tr>
