@@ -8,8 +8,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Engineer;Machine+Learning+Developer;LLM+%7C+RAG+%7C+Agentic+AI;Deep+Learning+Enthusiast;Always+Learning+New+Things+✨" />
 
-<img src="https://komarev.com/ghpvc/?username=ShivaniBebi&label=Profile+Views&color=brightgreen&style=for-the-badge"/>
-
 </div>
 
 ---
