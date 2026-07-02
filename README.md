@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src= "https://media.tenor.com/qilQ-Z1A500AAAAi/typing-benandbart.gif" width="250"/>
+<img src= "https://media.tenor.com/qilQ-Z1A500AAAAi/typing-benandbart.gif" width="350"/>
 
 # Hi 👋 I'm Shivani Yadav
 
