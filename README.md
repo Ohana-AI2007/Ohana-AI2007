@@ -23,7 +23,7 @@
 
 ###
 
-## 🛠️ Tech Stack
+##        🛠️ Tech Stack
 
 <table align="center">
 <tr>
