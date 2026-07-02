@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src= "https://media.tenor.com/qilQ-Z1A500AAAAi/typing-benandbart.gif" width="350"/>
+<img src= "https://media.tenor.com/kQcGDGtb79QAAAAi/alice-animated-alice-stickers.gif" width="350"/>
 
 # Hi 👋 I'm Shivani Yadav
 
