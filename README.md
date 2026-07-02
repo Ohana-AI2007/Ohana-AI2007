@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.tenor.com/BdQn1whapc0AAAAi/tawfikiya-hi.gif" width="350"/>
+<img src="https://media.tenor.com/BdQn1whapc0AAAAi/tawfikiya-hi.gif" width="250"/>
 
 # Hi 👋 I'm Shivani Yadav
 
