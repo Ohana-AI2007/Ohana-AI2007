@@ -25,14 +25,12 @@
 - Retrieval-Augmented Generation (RAG)
 - Agentic AI
 - Deep Learning
-- Computer Vision
 
 🌱 Currently learning
 - LangChain
 - Multi-Agent Systems
 - Vector Databases
-- MLOps
-- Cloud Deployment
+- CNN
 
 🎯 **Mission**
 > Build AI products that solve real-world problems and positively impact millions of people.
@@ -54,7 +52,6 @@
 
 ### 🗄️ Databases
 
-### ☁️ Cloud & DevOps
 
 ### 🛠️ Tools & Platforms
 
