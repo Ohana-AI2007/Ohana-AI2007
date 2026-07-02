@@ -78,9 +78,9 @@
 
 ---
 
-# 📈 GitHub Journey
+# 📈 my skill set
 
-> "Code. Learn. Build. Repeat. 🚀"
+ 
 
 
 <table align="center">
