@@ -14,7 +14,7 @@
 
 # 💫 About Me
 
-<img align="right" width="320" src="https://media.tenor.com/qilQ-Z1A500AAAAi/typing-benandbart.gif">
+<img align="right" width="320" src="https://media.tenor.com/WC8oc8aG3xgAAAAi/work-office.gif">
 
 ### 👩‍💻 AI Engineer from Roorkee, India
 
