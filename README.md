@@ -14,7 +14,7 @@
 
 # 💫 About Me
 
-<img align="right" width="320" src="https://media.tenor.com/gHzcR8O6W0kAAAAi/summerinmara-typing.gif">
+<img align="right" width="250" src="https://media.tenor.com/gHzcR8O6W0kAAAAi/summerinmara-typing.gif">
 
 ### 👩‍💻 AI Engineer from Roorkee, India
 
