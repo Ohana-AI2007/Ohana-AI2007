@@ -1,6 +1,6 @@
 <div align="center">
 
-   <img src=""C:\Users\shiva\OneDrive\Desktop\Pictures\Saved Pictures\WhatsApp Image 2025-10-29 at 09.21.20_7702dd51.jpg"g" width="220" alt="Shivani Yadav"/>
+    <img src="https://i.pinimg.com/originals/31/8f/ee/318fee1b17a7c102ccce7bffa604be51.gif" width="350"/>
 
 # Hi 👋 I'm Shivani Yadav
 
