@@ -11,11 +11,11 @@
 
 ###
 
-<h2 data-importer="text" align="left">About me</h2>
+<h2 data-importer="text" align="center">About me</h2>
 
 ###
 
-<h3 data-importer="text" align="center"> ✨ Creating AI-powered solutions with Python and Machine Learning.<br>📚 Currently exploring LLMs, RAG, Agentic AI, and Deep Learning.<br>🎯 Goal: Land a top AI/ML role and develop products that solve real-world problems.<br>🎲 Fun fact: I love experimenting with AI tools and participating in hackathons.</h3>
+<h3 data-importer="text" align="left"> ✨ Creating AI-powered solutions with Python and Machine Learning.<br>📚 Currently exploring LLMs, RAG, Agentic AI, and Deep Learning.<br>🎯 Goal: Land a top AI/ML role and develop products that solve real-world problems.<br>🎲 Fun fact: I love experimenting with AI tools and participating in hackathons.</h3>
 
 ###
 
