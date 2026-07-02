@@ -14,7 +14,8 @@
 
 # 💫 About Me
 
-<img align="right" width="320" src="https://media.tenor.com/WC8oc8aG3xgAAAAi/work-office.gif">
+<img align="right" width="320" src="<img width="201" height="219" alt="image" src="https://github.com/user-attachments/assets/0ea06184-8f40-456c-8c0b-395141c4061b" />
+">
 
 ### 👩‍💻 AI Engineer from Roorkee, India
 
