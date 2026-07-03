@@ -225,6 +225,11 @@
 </td>
 
 <td align="center">
+<img src="https://matplotlib.org/_static/images/logo2.svg" height="50"/><br>
+<b>Matplotlib</b>
+</td>
+
+<td align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="50"/><br>
 <b>Canva</b>
 </td>
