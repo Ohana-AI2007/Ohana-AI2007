@@ -203,7 +203,7 @@
 </td>
 
 <td align="center">
-<img src="https://raw.githubusercontent.com/gradio-app/gradio/main/js/_website/src/lib/assets/logo.svg" height="50"/><br>
+<img src="https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge&logo=gradio&logoColor=white" height="30"/><br>
 <b>Gradio</b>
 </td>
 
