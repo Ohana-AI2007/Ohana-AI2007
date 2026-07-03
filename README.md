@@ -248,50 +248,6 @@
 
 </tr>
 
-<tr>
-<td align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="50"/><br>
-<b>AWS</b>
-
-</td>
-
-<td align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="50"/><br>
-<b>Anaconda</b>
-
-</td>
-
-<td align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="50"/><br>
-<b>Jupyter</b>
-
-</td>
-
-<td align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="50"/><br>
-<b>PyCharm</b>
-
-</td>
-
-<td align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50"/><br>
-<b>VS Code</b>
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="50"/><br>
-<b>Kaggle</b>
-
-</td>
 
 <td align="center">
 
