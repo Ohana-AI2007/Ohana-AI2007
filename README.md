@@ -225,7 +225,7 @@
 </td>
 
 <td align="center">
-<img src="https://matplotlib.org/_static/images/logo2.svg" height="50"/><br>
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white" height="30"/><br>
 <b>Matplotlib</b>
 </td>
 
