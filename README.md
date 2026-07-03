@@ -76,219 +76,160 @@
  
 
 # 📈 my skill set
-
- 
-
+<h2 align="center">🛠️ Tech Stack</h2>
 
 <table align="center">
+
 <tr>
 <td align="center" width="120">
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50"/><br>
 <b>Python</b>
-
 </td>
 
 <td align="center" width="120">
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50"/><br>
 <b>C++</b>
-
 </td>
 
 <td align="center" width="120">
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50"/><br>
 <b>HTML5</b>
-
 </td>
 
 <td align="center" width="120">
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50"/><br>
 <b>CSS3</b>
-
 </td>
 
 <td align="center" width="120">
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="50"/><br>
 <b>Flask</b>
-
 </td>
 </tr>
 
 <tr>
 <td align="center">
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="50"/><br>
 <b>PyTorch</b>
-
 </td>
 
 <td align="center">
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="50"/><br>
 <b>TensorFlow</b>
-
 </td>
 
 <td align="center">
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50"/><br>
 <b>NumPy</b>
-
 </td>
 
 <td align="center">
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50"/><br>
 <b>Pandas</b>
-
 </td>
 
 <td align="center">
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="50"/><br>
 <b>OpenCV</b>
-
-</td>
-<td align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50"/><br>
-<b>MySQL</b>
-
-</td>
-
-<td align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50"/><br>
-<b>MongoDB</b>
-
-</td>
-
-<td align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50"/><br>
-<b>Git</b>
-
-</td>
-
-<td align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50"/><br>
-<b>GitHub</b>
-
-</td>
-
-<td align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50"/><br>
-<b>Docker</b>
-
-</td>
-
-<td align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="50"/><br>
-<b>AWS</b>
-
-</td>
-
-<td align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="50"/><br>
-<b>Anaconda</b>
-
-</td>
-
-<td align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="50"/><br>
-<b>Jupyter</b>
-
-</td>
-
-<td align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="50"/><br>
-<b>PyCharm</b>
-
-</td>
-
-<td align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50"/><br>
-<b>VS Code</b>
-
-</td>
- 
-<td align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="50"/><br>
-<b>Kaggle</b>
-
-</td>
-
-<td align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="50"/><br>
-<b>Canva</b>
-
-</td>
-
-<td colspan="3"></td>
-
-</tr>
-
-
-<td align="center">
-
-<img src="https://www.vectorlogo.zone/logos/gradio/gradio-icon.svg" height="50"/><br>
-<b>Gradio</b>
-
-</td>
-
-<td align="center">
-
-<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="50"/><br>
-<b>Hugging Face</b>
-
-</td>
-
-<td align="center">
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="50"/><br>
-<b>Power BI</b>
-
-</td>
-
-<td align="center">
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" height="50"/><br>
-<b>Google Colab</b>
-
 </td>
 </tr>
 
 <tr>
 <td align="center">
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="50"/><br>
-<b>Scikit-learn</b>
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50"/><br>
+<b>MySQL</b>
 </td>
 
 <td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50"/><br>
+<b>MongoDB</b>
+</td>
 
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50"/><br>
+<b>Git</b>
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50"/><br>
+<b>GitHub</b>
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50"/><br>
+<b>Docker</b>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="50"/><br>
+<b>AWS</b>
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="50"/><br>
+<b>Anaconda</b>
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="50"/><br>
+<b>Jupyter</b>
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="50"/><br>
+<b>PyCharm</b>
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50"/><br>
+<b>VS Code</b>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="50"/><br>
+<b>Kaggle</b>
+</td>
+
+<td align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" height="50"/><br>
+<b>Google Colab</b>
+</td>
+
+<td align="center">
+<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="50"/><br>
+<b>Hugging Face</b>
+</td>
+
+<td align="center">
+<img src="https://raw.githubusercontent.com/gradio-app/gradio/main/js/_website/src/lib/assets/logo.svg" height="50"/><br>
+<b>Gradio</b>
+</td>
+
+<td align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="50"/><br>
+<b>Scikit-Learn</b>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="50"/><br>
+<b>Power BI</b>
+</td>
+
+<td align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="50"/><br>
 <b>Canva</b>
-
 </td>
 
 <td colspan="3"></td>
 
 </tr>
+
 </table>
 
 
