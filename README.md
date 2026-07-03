@@ -153,9 +153,6 @@
 <b>OpenCV</b>
 
 </td>
-</tr>
-
-<tr>
 <td align="center">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50"/><br>
@@ -190,9 +187,7 @@
 <b>Docker</b>
 
 </td>
-</tr>
 
-<tr>
 <td align="center">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="50"/><br>
@@ -227,9 +222,7 @@
 <b>VS Code</b>
 
 </td>
-</tr>
-
-<tr>
+ 
 <td align="center">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="50"/><br>
