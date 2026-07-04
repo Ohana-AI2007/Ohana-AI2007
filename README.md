@@ -23,7 +23,6 @@
 🤖 Passionate about
 - Large Language Models (LLMs)
 - Retrieval-Augmented Generation (RAG)
-- Agentic AI
 - Deep Learning
 
 🌱 Currently learning
