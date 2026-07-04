@@ -41,15 +41,7 @@
 
 ---
 
-# 🚀 Tech Stack
-
-### 💻 Programming Languages
-
-### 🤖 Artificial Intelligence & Machine Learning
-
-### 🧠 Generative AI
-
-### 🗄️ Databases
+ 
 
 
 ### 🛠️ Tools & Platforms
