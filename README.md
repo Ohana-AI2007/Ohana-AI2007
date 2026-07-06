@@ -268,12 +268,11 @@
 <br/>  
 
 
-## ⭐ Thanks for Visiting My Profile!
+## 🍀 Thanks for Visiting My Profile!
+<div align="center">
+<img src="https://media.tenor.com/DhFPo_LQGt4AAAAi/alice-sticker-alice-animated.gif"180"/>
 
-<img src="https://media.tenor.com/g_5DbS-M76UAAAAi/flying-superman.gif" width="180"/>
+###  💛 Stay Curious • Build with Purpose • Shape the Future with AI 🚀
 
-### 💙 Keep Learning • Keep Building • Keep Growing 🚀
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C4FF,100:7B2FF7&height=120&section=footer"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,100:FFC300&height=120&section=footer"/>
 </div>
