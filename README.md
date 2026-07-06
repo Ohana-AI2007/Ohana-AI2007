@@ -267,3 +267,13 @@
 
 <br/>  
 
+
+## ⭐ Thanks for Visiting My Profile!
+
+<img src="https://media.tenor.com/g_5DbS-M76UAAAAi/flying-superman.gif" width="180"/>
+
+### 💙 Keep Learning • Keep Building • Keep Growing 🚀
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C4FF,100:7B2FF7&height=120&section=footer"/>
+
+</div>
