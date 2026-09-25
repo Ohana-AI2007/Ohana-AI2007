@@ -234,7 +234,7 @@
 # 📊 GitHub Analytics
 
 <div align="center">
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ShivaniBebi&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Ohana-AI2007&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -246,7 +246,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShivaniBebi&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ohana-AI2007&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -260,7 +260,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://github.com/ShivaniBebi">
+<a href="https://github.com/Ohana-AI2007">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>  
 </div> 
