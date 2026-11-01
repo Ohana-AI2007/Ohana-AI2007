@@ -145,8 +145,7 @@
 </td>
 
 <td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50"/><br>
-<b>Docker</b>
+ 
 </td>
 </tr>
 
