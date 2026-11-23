@@ -2,7 +2,7 @@
 
 <img src= "https://media.tenor.com/kQcGDGtb79QAAAAi/alice-animated-alice-stickers.gif" width="350"/>
 
-# Hi 👋 I'm Shivani Yadav
+# Hi 👋 I'm Shivani 
 
 ### 🚀 AI Engineer | Machine Learning Enthusiast | Generative AI Developer | Data Scientist
 
